@@ -16,3 +16,11 @@ This project simulates a retail data analysis workflow. It focuses on processing
 - Python
 - Pandas (Data Manipulation)
 - NumPy (Mathematical Operations)
+
+## How to Run
+
+Clone this repository: `https://github.com/proshanta-pal/e-commerce-store-data-analyzer.git`
+
+Install dependencies: `pip install pandas numpy`
+
+Run the Jupyter Notebook or Python script to generate the `top_10.csv` report.
